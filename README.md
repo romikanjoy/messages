@@ -1,4 +1,4 @@
-# my-app
+# messages
 Sample messages app for React.js session
 
 ### Getting Started
